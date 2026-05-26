@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:7C3AED,100:EC4899&height=155&section=header&text=%F0%9F%91%8B%20Hi,%20I'm%20Lincan(Kelsey)%20Li&fontSize=26&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=CS%20PhD%20Student%20%40%20Reliable%20AI%20Lab%20%7C%20Florida%20State%20University&descSize=18&descAlignY=54&descColor=F3F4F6"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:7C3AED,100:EC4899&height=155&section=header&text=%F0%9F%91%8B%20Hi,%20I'm%20Lincan%20Li&fontSize=26&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=CS%20PhD%20Student%20%40%20Reliable%20AI%20Lab%20%7C%20Florida%20State%20University&descSize=18&descAlignY=54&descColor=F3F4F6"
     alt="Lincan Li Profile Banner"
   />
 </p>
