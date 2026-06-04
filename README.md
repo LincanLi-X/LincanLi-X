@@ -34,16 +34,16 @@
 
 ### 🔥 Research Highlights
 
-- 🌟 **IJCAI 2026 (first-author)**
+- 🌟 **IJCAI 2026 [CORE A*] (first-author)**
   *[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](https://arxiv.org/abs/2604.28178)*
   
-- 🏆 **SIGSPATIAL 2025 Best Paper Award (first author)**  
+- 🏆 **SIGSPATIAL 2025 Best Paper Award [CORE A] (first author)**  
   *[TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting](https://dl.acm.org/doi/abs/10.1145/3748636.3763223)*
 
-- 🚀 **KDD 2026**  
+- 🚀 **KDD 2026 [CPRE A*]**  
   *[PEANuT: Parameter-Efficient Adaption with Weight-aware Neural Tweakers](https://dl.acm.org/doi/abs/10.1145/3770854.3780230)*
   
-- 🌟 **KDD 2025 (Co-first author)**  
+- 🌟 **KDD 2025 [CORE A*] (Co-first author)**  
   *[A Survey on Model Extraction Attacks and Defenses for Large Language Models](https://dl.acm.org/doi/abs/10.1145/3711896.3736573)*
 
 - 🧠 **ICHI 2026 (first-author)**  
